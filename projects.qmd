@@ -17,9 +17,13 @@ format:
 
 Explore some of my recent and ongoing projects.
 
--   Climate-driven range shifts in a rare specialist bee
+-   Modeling the diversity and distribution of NYS Bees
 
--   rlandfire: Tools for Accessing and Working with LANDFIRE in R 
+-   Forecasting the impacts of global change on SW Bees
+
+-   `rlandfire`: Interface to 'LANDFIRE Product Service' API 
+
+-   Climate-driven range shifts in a rare specialist bee
 
 -   Biology of a deep nesting aster specialist
 
@@ -43,7 +47,25 @@ carousel("projects-carousel", 5000, yaml.load_file("carousel.yml"))
 
 I use open data to model how the diversity and distributions of solitary bees may change under future climate conditions and in human-altered landscapes. By evaluating how species respond to the changing environment, I aim to provide resources for land management decision-making and biodiversity conservation.
 
-Historically, insect populations lacked detailed, structured, and long-term surveys. The need for more data presents a challenge in prioritizing conservation action. By leveraging community science data and collection records with Species Distribution Modeling (SDM) methods, we can better evaluate how species may respond to a suite of interacting drivers of global change.
+Historically, insect populations lacked detailed, structured, and long-term surveys. The need for more data presents a challenge in prioritizing conservation action. By leveraging community science data and collection records with Species Distribution Modeling (SDM), we can better evaluate how species may respond to a suite of interacting drivers of global change.
+
+
+```{=html}
+<div>
+  <div style="float: left; position: relative; top: 10px; padding:10px;">
+  <img src="./images/esnps.png"
+       width = "150" />
+  <br>
+  </div>
+<br>
+<h4> Fine-scale Models of Bee Diversity and Habitat in New York State </h4>
+
+The local context required for implementing effective conservation actions is often missing from global analyses of bee diversity. Using records from the Empire State Native Pollinator Survey and GBIF, we are modeling how bee species are distributed across the state of New York and what habitats may be of high conservation value.
+
+</div>
+
+<br>
+```
 
 ```{=html}
 <div>
@@ -80,7 +102,7 @@ Most specialists bees collect pollen from species within the same family of plan
 
 
 
-## Other Projects
+## Software
 
 ```{=html}
 <div>
@@ -90,25 +112,30 @@ Most specialists bees collect pollen from species within the same family of plan
   </div>
 <br>
 <h4> rlandfire </h4>
-<code>rlandfire</code> is an 'in-development' R package for working with the Landscape Fire and Resource Management Planning Tools' (LANDFIRE) geospatial layers in R. The current version allows users to easily call the LANDFIRE Product Services API from within R. 
+<img src = "https://www.r-pkg.org/badges/version-last-release/rlandfire" /> <img src = "https://cranlogs.r-pkg.org/badges/grand-total/rlandfire" /> <br>
+<code>rlandfire</code> is an R package for working with the 'Landscape Fire and Resource Management Planning Tools' (LANDFIRE) geospatial layers in R. The current version provides and interface to the 'LANDFIRE Product Service' API from within R. 
+<br>
 </div>
 
 <br>
 ```
 
-You can install the development version of rlandfire from [GitHub](https://github.com/bcknr/rlandfire) with:
+`rlandfire` is now on [CRAN]("https://cran.r-project.org/package=rlandfire")! The package can be installed with:
 
 ```{r}
 #| eval: false
 #| echo: true
+
+# CRAN:
+install.packages("rlandfire")
+
+# Development version:
 # install.packages("devtools")
 devtools::install_github("bcknr/rlandfire")
 ```
-Please submit all bug reports, feature requests, or questions in the [GitHub repo](https://github.com/bcknr/rlandfire/issues).
+Please submit all bug reports, feature requests, or questions on the [GitHub repo](https://github.com/bcknr/rlandfire/issues).
 
 I am open to contributors. If you are a LANDFIRE user and are interested in participating, please reach out!
-
-[![](https://img.shields.io/github/license/bcknr/rlandfire?color=green&logo=https%253A%252F%252Fwww.gnu.org%252Flicenses%252Fgpl-3.0.html)](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ```{=html}
 <h5> Featured in the LANDFIRE Office Hours  </h5>

@@ -19,14 +19,20 @@ format:
   background-postion: center center;
   background-attachment: fixed;
 }
-  
+
+
 </style>
 
 ```
 
 ```{=html}
+
+<div class="boxgrad">
+<h5 style = "font-size: 1.3em; color: #ffffff;"> Open to work in biodiversity modeling and data science</h5>
+</div>
+
 <div class="box1">
-<h1 style="font-size: 3em; color: #ffffff;"> Mark A. Buckner, REHS/RS</h1>
+<h1 style="font-size: 3em; color: #ffffff;"> Mark A. Buckner</h1>
 
 <h5 style="font-size: 1em; color: #ffffff;"> <i>Global Change Ecology</i> | <i>Conservation</i> | <i>Distribution Modeling</i> </h5>
 <h3 style = "color: #ffffff;"> PhD Candidate, Cornell University <br>

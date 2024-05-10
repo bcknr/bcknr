@@ -2,16 +2,16 @@
   {
     "objectID": "dsw_poster.html",
     "href": "dsw_poster.html",
-    "title": "Mark Buckner",
+    "title": " Forecasting the Impacts of Global Change on a Bee Biodiversity Hotspot ",
     "section": "",
     "text": "Forecasting the Impacts of Global Change on a Bee Biodiversity Hotspot \n\n\nThank you for visiting my poster! To view the full-sized digital poster click here or on the image below.\nIf you have any questions about this project, any of my other work, or are interested in collaborating, email me at mab677@cornell.edu. I look forward to hearing from you! To learn more about me and some of my other ongoing projects, feel free to explore the About, and Research pages of this website.\n\n\n\n\n\n Timelapse: Las Vegas Urban Sprawl (1980-2020)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Mark Buckner",
+    "title": " Mark A. Buckner",
     "section": "",
-    "text": "Mark A. Buckner, REHS/RS\n\n Global Change Ecology | Conservation | Distribution Modeling \n PhD Candidate, Cornell University \nCornell Atkinson Research Fellow"
+    "text": "Open to work in biodiversity modeling and data science\n\n\n\n Mark A. Buckner\n\n Global Change Ecology | Conservation | Distribution Modeling \n PhD Candidate, Cornell University \nCornell Atkinson Research Fellow"
   },
   {
     "objectID": "pubs.html",
@@ -51,23 +51,23 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Mark Buckner",
+    "title": "Research and Current Projects",
     "section": "",
-    "text": "Explore some of my recent and ongoing projects.\n\nClimate-driven range shifts in a rare specialist bee\nrlandfire: Tools for Accessing and Working with LANDFIRE in R\nBiology of a deep nesting aster specialist\nMason Bee Edu: A native bee education program\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate-driven range shifts of a specialist bee\n\n\n\n\n\n\n\nBiology of a deep nesting aster specialist\n\n\n\n\n\n\n\nrlandfire\n\n\n\n\n\n\n\nMason Bee EDU\n\n\n\n\n\nPrevoius\n\n\n\nNext"
+    "text": "Explore some of my recent and ongoing projects.\n\nModeling the diversity and distribution of NYS Bees\nForecasting the impacts of global change on SW Bees\nrlandfire: Interface to ‘LANDFIRE Product Service’ API\nClimate-driven range shifts in a rare specialist bee\nBiology of a deep nesting aster specialist\nMason Bee Edu: A native bee education program\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate-driven range shifts of a specialist bee\n\n\n\n\n\n\n\nBiology of a deep nesting aster specialist\n\n\n\n\n\n\n\nrlandfire\n\n\n\n\n\n\n\nMason Bee EDU\n\n\n\n\n\nPrevoius\n\n\n\nNext"
   },
   {
     "objectID": "projects.html#current-research",
     "href": "projects.html#current-research",
-    "title": "Mark Buckner",
+    "title": "Research and Current Projects",
     "section": "Current Research",
-    "text": "Current Research\nI use open data to model how the diversity and distributions of solitary bees may change under future climate conditions and in human-altered landscapes. By evaluating how species respond to the changing environment, I aim to provide resources for land management decision-making and biodiversity conservation.\nHistorically, insect populations lacked detailed, structured, and long-term surveys. The need for more data presents a challenge in prioritizing conservation action. By leveraging community science data and collection records with Species Distribution Modeling (SDM) methods, we can better evaluate how species may respond to a suite of interacting drivers of global change.\n\n  \n  \n  \n  \n\n Forecasting the Impacts of Global Change on a Bee Biodiversity Hotspot \n\nThe American Southwest is a hotspot for rapid climate change, land conversion, and bee biodiversity. Home to nearly 1/4 of US bee species, we are using Joint SDMs to evaluate how global change might impact species richness in the region and how to mitigate the threat. Click here to view my recent poster on this project.\n\n\n\n\n\n  \n  \n       \n  \n\n Climate-driven range shifts in a rare specialist bee \nMost specialists bees collect pollen from species within the same family of plants. Macropis nuda only collects pollens and oils from a couple of species. Our recent Global Ecology and Conservation publication explored how this species and its primary host plant might respond to the changing climate."
+    "text": "Current Research\nI use open data to model how the diversity and distributions of solitary bees may change under future climate conditions and in human-altered landscapes. By evaluating how species respond to the changing environment, I aim to provide resources for land management decision-making and biodiversity conservation.\nHistorically, insect populations lacked detailed, structured, and long-term surveys. The need for more data presents a challenge in prioritizing conservation action. By leveraging community science data and collection records with Species Distribution Modeling (SDM), we can better evaluate how species may respond to a suite of interacting drivers of global change.\n\n  \n  \n  \n  \n\n Fine-scale Models of Bee Diversity and Habitat in New York State \n\nThe local context required for implementing effective conservation actions is often missing from global analyses of bee diversity. Using records from the Empire State Native Pollinator Survey and GBIF, we are modeling how bee species are distributed across the state of New York and what habitats may be of high conservation value.\n\n\n\n\n\n  \n  \n  \n  \n\n Forecasting the Impacts of Global Change on a Bee Biodiversity Hotspot \n\nThe American Southwest is a hotspot for rapid climate change, land conversion, and bee biodiversity. Home to nearly 1/4 of US bee species, we are using Joint SDMs to evaluate how global change might impact species richness in the region and how to mitigate the threat. Click here to view my recent poster on this project.\n\n\n\n\n\n  \n  \n       \n  \n\n Climate-driven range shifts in a rare specialist bee \nMost specialists bees collect pollen from species within the same family of plants. Macropis nuda only collects pollens and oils from a couple of species. Our recent Global Ecology and Conservation publication explored how this species and its primary host plant might respond to the changing climate."
   },
   {
     "objectID": "projects.html#other-projects",
     "href": "projects.html#other-projects",
-    "title": "Mark Buckner",
+    "title": "Research and Current Projects",
     "section": "Other Projects",
-    "text": "Other Projects\n\n  \n  \n  \n\n rlandfire \nrlandfire is an 'in-development' R package for working with the Landscape Fire and Resource Management Planning Tools' (LANDFIRE) geospatial layers in R. The current version allows users to easily call the LANDFIRE Product Services API from within R. \n\n\n\nYou can install the development version of rlandfire from GitHub with:\n\n# install.packages(\"devtools\")\ndevtools::install_github(\"bcknr/rlandfire\")\n\nPlease submit all bug reports, feature requests, or questions in the GitHub repo.\nI am open to contributors. If you are a LANDFIRE user and are interested in participating, please reach out!\n\n\n\n\n\n Featured in the LANDFIRE Office Hours  \nEarly in the development process, rlandfire was featured in the LANDFIRE Office Hours as part of a broader discussion on using LANDFIRE and R!"
+    "text": "Other Projects\n\n  \n  \n  \n\n rlandfire \n  \nrlandfire is an R package for working with the 'Landscape Fire and Resource Management Planning Tools' (LANDFIRE) geospatial layers in R. The current version provides and interface to the 'LANDFIRE Product Service' API from within R. \n\n\n\n\nrlandfire is now on CRAN! The package can be installed with:\n\n# CRAN:\ninstall.packages(\"rlandfire\")\n\n# Development version:\n# install.packages(\"devtools\")\ndevtools::install_github(\"bcknr/rlandfire\")\n\nPlease submit all bug reports, feature requests, or questions on the GitHub repo.\nI am open to contributors. If you are a LANDFIRE user and are interested in participating, please reach out!\n Featured in the LANDFIRE Office Hours  \nEarly in the development process, rlandfire was featured in the LANDFIRE Office Hours as part of a broader discussion on using LANDFIRE and R!"
   },
   {
     "objectID": "about.html",
@@ -163,15 +163,36 @@
   {
     "objectID": "outreach.html",
     "href": "outreach.html",
-    "title": "Mark Buckner",
+    "title": "Mason Bee Edu",
     "section": "",
     "text": "Mason Bee Edu is a supplemental high school life science curriculum using mason bees as the focal species. Each of the nine modules introduces a key topic in bee biology ranging from bee phylogeny and diversity to the role of mason bees as pollinators to bee decline and conservation.\nThe program was created in partnership with high school science educators, education and outreach experts, and industry partners from the New York State Master Teachers Program, Museum of the Earth, and Crown Bees. Each module includes an “educate the educator” background section, a list of vocabulary and resources, and a classroom activity.\nMason Bee Edu is available free of charge at Crown Bees\n\nBuckner M, Danforth B. Mason Bee Edu: Native Bee Education Program. https://crownbees.com/mason-bee-edu-introduction\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBuckner M. An Introduction to Mason Bee Edu. May 2022. NCIPM: Youth Pollinator Education and Action Workshop. Virtual Workshop Presentation.\n\n\n\nBuckner M., Danforth B. Mason Bee Edu: Using live mason bees to teach insect biology, pollination,ecology, genetics, evolution, and conservation (and more!). November 2021. New York State Master Teacher Workshop. 1-Day workshop."
   },
   {
     "objectID": "outreach.html#introduction-to-git-and-github-in-r",
     "href": "outreach.html#introduction-to-git-and-github-in-r",
-    "title": "Mark Buckner",
+    "title": "Mason Bee Edu",
     "section": "Introduction to Git and Github in R",
     "text": "Introduction to Git and Github in R\nThis workshop provided an introduction to using Git and GitHub in Rstudio. The workshop covers installation, basic workflows, collaboration, and how Git can help you recover from “disasters.” The in-person/zoom workshop was held in February 2023—the material covered is available on the workshop’s website."
+  },
+  {
+    "objectID": "outreach.html#past-mbe-workshops",
+    "href": "outreach.html#past-mbe-workshops",
+    "title": "Mason Bee Edu",
+    "section": "",
+    "text": "Buckner M. An Introduction to Mason Bee Edu. May 2022. NCIPM: Youth Pollinator Education and Action Workshop. Virtual Workshop Presentation.\n\n\n\nBuckner M., Danforth B. Mason Bee Edu: Using live mason bees to teach insect biology, pollination,ecology, genetics, evolution, and conservation (and more!). November 2021. New York State Master Teacher Workshop. 1-Day workshop."
+  },
+  {
+    "objectID": "pubs.html#section",
+    "href": "pubs.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Espinoza AC, Urban-Mead KR, Buckner MA, Flórez-Gómez N, Kueneman JG, Danforth BN. Biology of Andrena (Callandrena sensu lato) asteris Robertson (Hymenoptera: Andrenidae), an Eastern Aster Specialist that Makes a Very Deep Nest. Northeastern Naturalist. 2023; 29(4):474-491"
+  },
+  {
+    "objectID": "projects.html#software",
+    "href": "projects.html#software",
+    "title": "Research and Current Projects",
+    "section": "Software",
+    "text": "Software\n\n  \n  \n  \n\n rlandfire \n  \nrlandfire is an R package for working with the 'Landscape Fire and Resource Management Planning Tools' (LANDFIRE) geospatial layers in R. The current version provides and interface to the 'LANDFIRE Product Service' API from within R. \n\n\n\n\nrlandfire is now on CRAN! The package can be installed with:\n\n# CRAN:\ninstall.packages(\"rlandfire\")\n\n# Development version:\n# install.packages(\"devtools\")\ndevtools::install_github(\"bcknr/rlandfire\")\n\nPlease submit all bug reports, feature requests, or questions on the GitHub repo.\nI am open to contributors. If you are a LANDFIRE user and are interested in participating, please reach out!\n Featured in the LANDFIRE Office Hours  \nEarly in the development process, rlandfire was featured in the LANDFIRE Office Hours as part of a broader discussion on using LANDFIRE and R!"
   }
 ]
