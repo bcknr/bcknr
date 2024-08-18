@@ -1,39 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://markabuckner.com/dsw_poster.html</loc>
-    <lastmod>2024-03-15T19:03:01.236Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markabuckner.com/index.html</loc>
-    <lastmod>2024-05-10T19:23:50.755Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markabuckner.com/pubs.html</loc>
-    <lastmod>2024-03-15T19:02:59.360Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markabuckner.com/projects.html</loc>
-    <lastmod>2024-08-18T15:00:09.001Z</lastmod>
+    <loc>https://markabuckner.com/outreach.html</loc>
+    <lastmod>2024-08-18T18:08:37.945Z</lastmod>
   </url>
   <url>
     <loc>https://markabuckner.com/about.html</loc>
-    <lastmod>2024-03-15T19:17:49.043Z</lastmod>
+    <lastmod>2024-08-18T18:08:37.273Z</lastmod>
   </url>
   <url>
-    <loc>https://markabuckner.com/cv.html</loc>
-    <lastmod>2023-05-11T17:29:29.025Z</lastmod>
+    <loc>https://markabuckner.com/pubs.html</loc>
+    <lastmod>2024-08-18T18:08:35.485Z</lastmod>
   </url>
   <url>
     <loc>https://markabuckner.com/blog/blog.html</loc>
-    <lastmod>2023-05-11T17:29:29.769Z</lastmod>
+    <lastmod>2024-08-18T18:08:33.957Z</lastmod>
   </url>
   <url>
-    <loc>https://markabuckner.com/outreach.html</loc>
-    <lastmod>2024-03-15T19:03:01.640Z</lastmod>
+    <loc>https://markabuckner.com/index.html</loc>
+    <lastmod>2024-08-18T18:08:32.884Z</lastmod>
   </url>
   <url>
     <loc>https://markabuckner.com/gallery.html</loc>
-    <lastmod>2024-08-18T17:37:32.013Z</lastmod>
+    <lastmod>2024-08-18T18:08:35.085Z</lastmod>
+  </url>
+  <url>
+    <loc>https://markabuckner.com/projects.html</loc>
+    <lastmod>2024-08-18T18:08:36.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://markabuckner.com/dsw_poster.html</loc>
+    <lastmod>2024-08-18T18:08:37.593Z</lastmod>
   </url>
 </urlset>

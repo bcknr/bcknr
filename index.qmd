@@ -32,11 +32,9 @@ format:
 </div>
 
 <div class="box1">
-<h1 style="font-size: 3em; color: #ffffff;"> Mark A. Buckner</h1>
+<h1 style="font-size: 3em; color: #ffffff;"> Mark A. Buckner, PhD</h1>
 
 <h5 style="font-size: 1em; color: #ffffff;"> <i>Global Change Ecology</i> | <i>Conservation</i> | <i>Distribution Modeling</i> </h5>
-<h3 style = "color: #ffffff;"> PhD Candidate, Cornell University <br>
-Cornell Atkinson Research Fellow</h3>
 
 <br>
 </div>

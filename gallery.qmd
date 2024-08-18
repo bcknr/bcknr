@@ -1,0 +1,47 @@
+---
+title: "Data Visualizations"
+format: 
+  html:
+    toc: true
+    toc-location: right
+    page-layout: full
+    fontsize: medium
+    lightbox: auto
+    
+---
+
+## Conservation Cartography Figures
+
+::: {layout="[ [1], [1,1], [1], [0.75,1], [1] ]"} 
+![ESNPS: NYS Bee Richness](./gallery/ESNPSfig1.png){group="cartography"}
+
+![Desert Southwest: Topography](./gallery/DSWfig1.png){group="cartography"}
+
+![Desert Southwest: Range-size Rarity](./gallery/DSWfig3.png){group="cartography"}
+
+![ESNPS: Climate Trajectory](./gallery/ESNPSclimatetraj.png){group="cartography"}
+
+![ESNPS: Protected Areas](./gallery/ESNPSfig5.png){group="cartography"}
+
+![ESNPS: National Bee Sampling Map](./gallery/ESNPSfigS3.png){group="cartography"}
+
+![Misc: Specialist Bees of the US](./gallery/SBBS_map_white.png){group="cartography"}
+:::
+
+## Plots
+
+::: {layout="[[1,0.5]]"}
+![ESNPS: Life History Diversity](./gallery/ESNPSfigS1.png){group="plots"}
+
+![IUCN: Assessement Completeness for Bees](./gallery/iucn.png){group="plots"}
+:::
+
+## Animations
+
+::: {layout="[ [1], [1,1]]"}
+![Explainer: Stacked Species Distribution Models](./gallery/ssdmEnsemble.mp4){group="animations"}
+
+![Explainer: Generating Informed Pseudo-Absences](./gallery/informedPA.mp4){group="animations"}
+
+![Explainer: SDM Concept](./gallery/sdmExample.mp4){group="animations"}
+:::

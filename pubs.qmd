@@ -9,6 +9,13 @@ format:
     fontsize: medium
 ---
 
+## **2024**
+
+[Buckner MA]{style="text-decoration: underline;"}, White EL, Howard TG, Schlesinger MD, Danforth BN. Fine-scale Models of Bee Species Diversity and Conservation Habitat in New York State. bioRxiv. 2024.07.15.603570.
+<https://doi.org/10.1101/2024.07.15.603570>
+
+[Buckner MA]{style="text-decoration: underline;"}, Hoge ST, Danforth BN. Forecasting the Effects of Global Change on a Bee Biodiversity Hotspot. bioRxiv. 2024.07.10.602956. <https://doi.org/10.1101/2024.07.10.602956>
+
 ## **2023**
 
 Espinoza AC, Urban-Mead KR, [Buckner MA]{style="text-decoration: underline;"}, Flórez-Gómez N, Kueneman JG, Danforth BN. Biology of *Andrena* (*Callandrena* sensu lato) *asteris* Robertson (Hymenoptera: Andrenidae), an Eastern Aster Specialist that Makes a Very Deep Nest. *Northeastern Naturalist*. 2023; 29(4):474-491

@@ -60,7 +60,7 @@ Historically, insect populations lacked detailed, structured, and long-term surv
 <br>
 <h4> Fine-scale Models of Bee Diversity and Habitat in New York State </h4>
 
-The local context required for implementing effective conservation actions is often missing from global analyses of bee diversity. Using records from the Empire State Native Pollinator Survey and GBIF, we are modeling how bee species are distributed across the state of New York and what habitats may be of high conservation value.
+The local context required for implementing effective conservation actions is often missing from global analyses of bee diversity. Using records from the Empire State Native Pollinator Survey and GBIF, we are modeling how bee species are distributed across the state of New York and what habitats may be of high conservation value. Read the preprint on <a href="https://doi.org/10.1101/2024.07.15.603570">bioRxiv</a>.
 
 </div>
 
@@ -77,7 +77,7 @@ The local context required for implementing effective conservation actions is of
 <br>
 <h4> Forecasting the Impacts of Global Change on a Bee Biodiversity Hotspot </h4>
 
-The American Southwest is a hotspot for rapid climate change, land conversion, and bee biodiversity. Home to nearly 1/4 of US bee species, we are using Joint SDMs to evaluate how global change might impact species richness in the region and how to mitigate the threat. Click <a href="/dsw_poster.html">here</a> to view my recent poster on this project.
+The American Southwest is a hotspot for rapid climate change, land conversion, and bee biodiversity. Home to nearly 1/4 of US bee species, we are using Joint SDMs to evaluate how global change might impact species richness in the region and how to mitigate the threat. Read the preprint on <a href="https://doi.org/10.1101/2024.07.10.602956">bioRxiv</a>.
 
 </div>
 

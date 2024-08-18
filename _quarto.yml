@@ -4,7 +4,7 @@ project:
 
 website:
   google-analytics: "G-N8JCQBV6PD"
-  title: "Mark Buckner"
+  title: "Mark A. Buckner, PhD"
   site-url: "https://markabuckner.com"
   navbar:
     left:
@@ -14,10 +14,10 @@ website:
         text: Publications
       - href: outreach.qmd
         text: Outreach
-      # - href: cv.qmd
-      #   text: CV
+      - href: gallery.qmd
+        text: Gallery
       - href: projects.qmd
-        text: Research
+        text: Projects
         
     right:
       # - href: blog/blog.qmd
