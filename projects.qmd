@@ -120,7 +120,7 @@ Most specialists bees collect pollen from species within the same family of plan
 <br>
 ```
 
-`rlandfire` is now on [CRAN]("https://cran.r-project.org/package=rlandfire")! The package can be installed with:
+`rlandfire` is now on [CRAN](https://cran.r-project.org/package=rlandfire)! The package can be installed with:
 
 ```{r}
 #| eval: false

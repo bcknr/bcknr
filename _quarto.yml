@@ -29,10 +29,10 @@ website:
       - icon: github
         href: https://github.com/bcknr
       - icon: linkedin
-        href: www.linkedin.com/in/bucknerm
+        href: https://www.linkedin.com/in/bucknerm
         
   page-footer:
-    left: "\u00A9 2023, Mark Buckner"
+    left: "\u00A9 2023-2024, Mark Buckner"
     right: 
       - icon: github
         href: https://github.com/bcknr/bcknr
