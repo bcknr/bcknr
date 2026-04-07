@@ -11,14 +11,14 @@ format:
 
 ```{=html}
 <div>
-  <div style="float: left; position: relative; top: -15px; padding:20px; padding-bottom: 50px; padding-left: 0px;">
+  <div style="float: left; position: relative; top: -15px; padding:20px; padding-bottom: 75px; padding-left: 0px;">
   <img src="./images/photo.jpg"
        width = 220 />
   </div>
 <h3> Mark Buckner, PhD </h3>
 <h4> About Me </h4>
 <p>
-I recently graduated with a PhD from Cornell University, where I research global change ecology and native bee conservation using distribution modeling in the Danforth Lab. My research focus stems from an interest in leveraging existing historical records and community science programs to develop resources for conservation decision-making and prioritization in data-poor study systems. 
+I am a computational ecologist and biodiversity researcher focused on applying advanced analytical methods (AI/ML) to support evidence-based decision-making. I am interested in developing open-source tools for conservation prioritization, management, and biodiversity monitoring across diverse taxa. In 2024, I received my PhD from Cornell University in the Department of Entomology, where I built predictive distribution models for native bee species across North America to translate sparse species occurrence records into actionable conservation data products.
 <br><br>
 Born and raised in Colorado's Front Range and educated at the University of Montana, I still question how I ended up out east for my PhD. I enjoy spending time in nature. When not modeling and mapping species distributions, I can often be found hiking, fly fishing, or "<span class="hovertext" data-hover="Looking for porcupine">porcupining</span>."
 </p>

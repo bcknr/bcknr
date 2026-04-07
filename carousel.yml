@@ -1,19 +1,19 @@
 
-- caption: "Climate-driven range shifts of a specialist bee"
-  image: "./images/macropis_male_thumb.jpg"
-  link: "https://doi.org/10.1016/j.gecco.2022.e02180"
-  
-- caption: "Biology of a deep nesting aster specialist"
-  image: "./images/Aa_figure_thumb.jpg"
+- caption: "Occupancy forecasting with deep learning"
+  image: "./images/esnps.png"
   link: ""
+  
+- caption: "UAV-based biodiversity monitoring"
+  image: "./images/uav_nesting.jpg"
+  link: "https://doi.org/10.1111/1365-2664.70285"
   
 - caption: "rlandfire"
   image: "./images/rlandfire_thumb.jpg"
   link: "https://github.com/bcknr/rlandfire"
 
-- caption: "Mason Bee EDU"
-  image: "./images/mbe_thumb.jpg"
-  link: "https://crownbees.com/mason-bee-edu-introduction/"
+- caption: "Modeling NYS bee biodiversity"
+  image: "./images/esnps_overview.jpg"
+  link: "https://doi.org/10.1111/csp2.70239"
 
 # - caption: "Create multi-format books"
 #   image: ""

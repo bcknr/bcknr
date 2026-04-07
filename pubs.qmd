@@ -9,28 +9,31 @@ format:
     fontsize: medium
 ---
 
+## **2026**
+
+[Buckner MA]{style="text-decoration: underline;"}, White, EL, Howard, TG, Schlesinger, MD, & Danforth, BN (2026). Mapping bee diversity with landscape-level models to inform conservation. *Conservation Science and Practice*, 8(2), e70239. <https://doi.org/10.1111/csp2.70239>
+
+Mueller, TG, & [Buckner MA]{style="text-decoration: underline;"} (2026). UAV-based remote sensing of bee nesting aggregations with computer vision for object detection. *Journal of Applied Ecology*, 63, e70285. <https://doi.org/10.1111/1365-2664.70285>
+
 ## **2024**
 
-[Buckner MA]{style="text-decoration: underline;"}, White EL, Howard TG, Schlesinger MD, Danforth BN. Fine-scale Models of Bee Species Diversity and Conservation Habitat in New York State. bioRxiv. 2024.07.15.603570.
-<https://doi.org/10.1101/2024.07.15.603570>
-
-[Buckner MA]{style="text-decoration: underline;"}, Hoge ST, Danforth BN. Forecasting the Effects of Global Change on a Bee Biodiversity Hotspot. Ecology and Evolution. 2024; 14(12). <https://doi.org/10.1002/ece3.70638>
+[Buckner MA]{style="text-decoration: underline;"}, Hoge ST, Danforth BN. Forecasting the Effects of Global Change on a Bee Biodiversity Hotspot (2024). *Ecology and Evolution*, 14(12). <https://doi.org/10.1002/ece3.70638>
 
 ## **2023**
 
-Espinoza AC, Urban-Mead KR, [Buckner MA]{style="text-decoration: underline;"}, Flórez-Gómez N, Kueneman JG, Danforth BN. Biology of *Andrena* (*Callandrena* sensu lato) *asteris* Robertson (Hymenoptera: Andrenidae), an Eastern Aster Specialist that Makes a Very Deep Nest. *Northeastern Naturalist*. 2023; 29(4):474-491
+Espinoza AC, Urban-Mead KR, [Buckner MA]{style="text-decoration: underline;"}, Flórez-Gómez N, Kueneman JG, Danforth BN (2023). Biology of *Andrena* (*Callandrena* sensu lato) *asteris* Robertson (Hymenoptera: Andrenidae), an Eastern Aster Specialist that Makes a Very Deep Nest. *Northeastern Naturalist*, 29(4):474-491
 
 ## **2022**
 
-[Buckner MA]{style="text-decoration: underline;"}, Danforth BN. Climate-driven range shifts of a rare specialist bee, *Macropis nuda* (Melittidae), and its host plant, *Lysimachia ciliata* (Primulaceae). *Global Ecology and Conservation*. 2022; 37:e02180. <https://doi.org/10.1016/j.gecco.2022.e02180>
+[Buckner MA]{style="text-decoration: underline;"}, Danforth BN. Climate-driven range shifts of a rare specialist bee, *Macropis nuda* (Melittidae), and its host plant, *Lysimachia ciliata* (Primulaceae) (2022). *Global Ecology and Conservation*, 37:e02180. <https://doi.org/10.1016/j.gecco.2022.e02180>
 
 ## **2020**
 
-Maeda J, Allum AJ, Mussallem JT, Froning CE, Haskins AH, [Buckner MA]{style="text-decoration: underline;"}, Miller CD, Kato TA. Ascorbic Acid 2-Glucoside Pretreatment Protects Cells from Ionizing Radiation, UVC, and Short Wavelength of UVB. *Genes*. 2020; 11(3):238. <https://doi.org/10.3390/genes11030238>
+Maeda J, Allum AJ, Mussallem JT, Froning CE, Haskins AH, [Buckner MA]{style="text-decoration: underline;"}, Miller CD, Kato TA (2020). Ascorbic Acid 2-Glucoside Pretreatment Protects Cells from Ionizing Radiation, UVC, and Short Wavelength of UVB. *Genes*, 11(3):238. <https://doi.org/10.3390/genes11030238>
 
 ## **2018**
 
-Campbell MA, Łukasik P, Meyer MC, [Buckner M]{style="text-decoration: underline;"}, Simon C, Veloso C, Michalik A, McCutcheon JP. 2018. Changes in endosymbiont complexity drive host-level compensatory adaptations in cicadas. *mBio*. 2018; 9:e02104-18. <https://doi.org/10.1128/mBio.02104-18>
+Campbell MA, Łukasik P, Meyer MC, [Buckner M]{style="text-decoration: underline;"}, Simon C, Veloso C, Michalik A, McCutcheon JP (2018). Changes in endosymbiont complexity drive host-level compensatory adaptations in cicadas. *mBio*, 9:e02104-18. <https://doi.org/10.1128/mBio.02104-18>
 
 \
 

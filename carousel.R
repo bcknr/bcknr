@@ -37,9 +37,14 @@ carouselItem <- function(caption, image, link, index, interval) {
                                   `aria-current` = "true"                  
     )
   }
+  
   item <- div(class = paste0("carousel-item", ifelse(index == 0, " active", "")),
               `data-bs-interval` = interval,
-              a(href = link, img(src = image, class = "d-block  mx-auto border")),
+              a(href = link, 
+                img(src = image, 
+                    class = "d-block mx-auto",
+                    style = "height: 300px; width: 100%; object-fit: contain;")
+              ),
               div(class = "carousel-caption d-none d-md-block",
                   tags$p(class = "fw-light", caption)
               )

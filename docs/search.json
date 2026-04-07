@@ -25,63 +25,63 @@
     "href": "about.html",
     "title": "Mark A. Buckner, PhD",
     "section": "",
-    "text": "Mark Buckner, PhD \n About Me \n\nI recently graduated with a PhD from Cornell University, where I research global change ecology and native bee conservation using distribution modeling in the Danforth Lab. My research focus stems from an interest in leveraging existing historical records and community science programs to develop resources for conservation decision-making and prioritization in data-poor study systems. \n\nBorn and raised in Colorado's Front Range and educated at the University of Montana, I still question how I ended up out east for my PhD. I enjoy spending time in nature. When not modeling and mapping species distributions, I can often be found hiking, fly fishing, or \"porcupining.\"\n\n\n\n Education \nPhD | Cornell University\nInsect Ecology, Applied Ecology, Quantitative Ecology, Applied Statistics\nDissertation: “Cartograph-Bee: Mapping Data-Limited Native Bee Diversity and Distributions to Inform Conservation Action”\n\nBS | University of Montana\nEcology and Organismal Biology"
+    "text": "Mark Buckner, PhD \n About Me \n\nI am a computational ecologist and biodiversity researcher focused on applying advanced analytical methods (AI/ML) to support evidence-based decision-making. I am interested in developing open-source tools for conservation prioritization, management, and biodiversity monitoring across diverse taxa. In 2024, I received my PhD from Cornell University in the Department of Entomology, where I built predictive distribution models for native bee species across North America to translate sparse species occurrence records into actionable conservation data products.\n\nBorn and raised in Colorado's Front Range and educated at the University of Montana, I still question how I ended up out east for my PhD. I enjoy spending time in nature. When not modeling and mapping species distributions, I can often be found hiking, fly fishing, or \"porcupining.\"\n\n\n\n Education \nPhD | Cornell University\nInsect Ecology, Applied Ecology, Quantitative Ecology, Applied Statistics\nDissertation: “Cartograph-Bee: Mapping Data-Limited Native Bee Diversity and Distributions to Inform Conservation Action”\n\nBS | University of Montana\nEcology and Organismal Biology"
   },
   {
     "objectID": "pubs.html",
     "href": "pubs.html",
     "title": "Publications",
     "section": "",
-    "text": "Buckner MA, White EL, Howard TG, Schlesinger MD, Danforth BN. Fine-scale Models of Bee Species Diversity and Conservation Habitat in New York State. bioRxiv. 2024.07.15.603570. https://doi.org/10.1101/2024.07.15.603570\nBuckner MA, Hoge ST, Danforth BN. Forecasting the Effects of Global Change on a Bee Biodiversity Hotspot. Ecology and Evolution. 2024; 14(12). https://doi.org/10.1002/ece3.70638"
+    "text": "Buckner MA, White, EL, Howard, TG, Schlesinger, MD, & Danforth, BN (2026). Mapping bee diversity with landscape-level models to inform conservation. Conservation Science and Practice, 8(2), e70239. https://doi.org/10.1111/csp2.70239\nMueller, TG, & Buckner MA (2026). UAV-based remote sensing of bee nesting aggregations with computer vision for object detection. Journal of Applied Ecology, 63, e70285. https://doi.org/10.1111/1365-2664.70285"
   },
   {
     "objectID": "pubs.html#section",
     "href": "pubs.html#section",
     "title": "Publications",
     "section": "",
-    "text": "Buckner MA, White EL, Howard TG, Schlesinger MD, Danforth BN. Fine-scale Models of Bee Species Diversity and Conservation Habitat in New York State. bioRxiv. 2024.07.15.603570. https://doi.org/10.1101/2024.07.15.603570\nBuckner MA, Hoge ST, Danforth BN. Forecasting the Effects of Global Change on a Bee Biodiversity Hotspot. Ecology and Evolution. 2024; 14(12). https://doi.org/10.1002/ece3.70638"
+    "text": "Buckner MA, White, EL, Howard, TG, Schlesinger, MD, & Danforth, BN (2026). Mapping bee diversity with landscape-level models to inform conservation. Conservation Science and Practice, 8(2), e70239. https://doi.org/10.1111/csp2.70239\nMueller, TG, & Buckner MA (2026). UAV-based remote sensing of bee nesting aggregations with computer vision for object detection. Journal of Applied Ecology, 63, e70285. https://doi.org/10.1111/1365-2664.70285"
   },
   {
     "objectID": "pubs.html#section-1",
     "href": "pubs.html#section-1",
     "title": "Publications",
-    "section": "2023",
-    "text": "2023\nEspinoza AC, Urban-Mead KR, Buckner MA, Flórez-Gómez N, Kueneman JG, Danforth BN. Biology of Andrena (Callandrena sensu lato) asteris Robertson (Hymenoptera: Andrenidae), an Eastern Aster Specialist that Makes a Very Deep Nest. Northeastern Naturalist. 2023; 29(4):474-491"
+    "section": "2024",
+    "text": "2024\nBuckner MA, Hoge ST, Danforth BN. Forecasting the Effects of Global Change on a Bee Biodiversity Hotspot (2024). Ecology and Evolution, 14(12). https://doi.org/10.1002/ece3.70638"
   },
   {
     "objectID": "pubs.html#section-2",
     "href": "pubs.html#section-2",
     "title": "Publications",
-    "section": "2022",
-    "text": "2022\nBuckner MA, Danforth BN. Climate-driven range shifts of a rare specialist bee, Macropis nuda (Melittidae), and its host plant, Lysimachia ciliata (Primulaceae). Global Ecology and Conservation. 2022; 37:e02180. https://doi.org/10.1016/j.gecco.2022.e02180"
+    "section": "2023",
+    "text": "2023\nEspinoza AC, Urban-Mead KR, Buckner MA, Flórez-Gómez N, Kueneman JG, Danforth BN (2023). Biology of Andrena (Callandrena sensu lato) asteris Robertson (Hymenoptera: Andrenidae), an Eastern Aster Specialist that Makes a Very Deep Nest. Northeastern Naturalist, 29(4):474-491"
   },
   {
     "objectID": "pubs.html#section-3",
     "href": "pubs.html#section-3",
     "title": "Publications",
-    "section": "2020",
-    "text": "2020\nMaeda J, Allum AJ, Mussallem JT, Froning CE, Haskins AH, Buckner MA, Miller CD, Kato TA. Ascorbic Acid 2-Glucoside Pretreatment Protects Cells from Ionizing Radiation, UVC, and Short Wavelength of UVB. Genes. 2020; 11(3):238. https://doi.org/10.3390/genes11030238"
+    "section": "2022",
+    "text": "2022\nBuckner MA, Danforth BN. Climate-driven range shifts of a rare specialist bee, Macropis nuda (Melittidae), and its host plant, Lysimachia ciliata (Primulaceae) (2022). Global Ecology and Conservation, 37:e02180. https://doi.org/10.1016/j.gecco.2022.e02180"
   },
   {
     "objectID": "pubs.html#section-4",
     "href": "pubs.html#section-4",
     "title": "Publications",
-    "section": "2018",
-    "text": "2018\nCampbell MA, Łukasik P, Meyer MC, Buckner M, Simon C, Veloso C, Michalik A, McCutcheon JP. 2018. Changes in endosymbiont complexity drive host-level compensatory adaptations in cicadas. mBio. 2018; 9:e02104-18. https://doi.org/10.1128/mBio.02104-18"
+    "section": "2020",
+    "text": "2020\nMaeda J, Allum AJ, Mussallem JT, Froning CE, Haskins AH, Buckner MA, Miller CD, Kato TA (2020). Ascorbic Acid 2-Glucoside Pretreatment Protects Cells from Ionizing Radiation, UVC, and Short Wavelength of UVB. Genes, 11(3):238. https://doi.org/10.3390/genes11030238"
   },
   {
     "objectID": "pubs.html#section-5",
     "href": "pubs.html#section-5",
     "title": "Publications",
-    "section": "2021",
-    "text": "2021\nBuckner M. Cornell CALS Field Notes. Mark Buckner: Helping future generations understand and preserve native bees. 2021 June 23. https://cals.cornell.edu/news/2021/06/mark-buckner-helping-future-generations-understand-and-preserve-native-bees"
+    "section": "2018",
+    "text": "2018\nCampbell MA, Łukasik P, Meyer MC, Buckner M, Simon C, Veloso C, Michalik A, McCutcheon JP (2018). Changes in endosymbiont complexity drive host-level compensatory adaptations in cicadas. mBio, 9:e02104-18. https://doi.org/10.1128/mBio.02104-18"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": " Mark A. Buckner, PhD",
     "section": "",
-    "text": "Open to work in biodiversity modeling and data science\n\n\n\n Mark A. Buckner, PhD\n\n Global Change Ecology | Conservation | Distribution Modeling"
+    "text": "Open to work in biodiversity modeling and data science\n\n\n\n\n\n Global Change Ecology | Conservation | Distribution Modeling"
   },
   {
     "objectID": "gallery.html",
@@ -109,14 +109,14 @@
     "href": "gallery.html#animations",
     "title": "Data Visualizations",
     "section": "Animations",
-    "text": "Animations\n\n\n\n\n\nVideo\nExplainer: Stacked Species Distribution Models\n\n\n\n\n\n\n\n\nVideo\nExplainer: Generating Informed Pseudo-Absences\n\n\n\n\n\n\nVideo\nExplainer: SDM Concept"
+    "text": "Animations\n\n\n\n\n\nExplainer: Stacked Species Distribution Models\nExplainer: Stacked Species Distribution Models\n\n\n\n\n\n\n\n\nExplainer: Generating Informed Pseudo-Absences\nExplainer: Generating Informed Pseudo-Absences\n\n\n\n\n\n\nExplainer: SDM Concept\nExplainer: SDM Concept"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Research and Current Projects",
     "section": "",
-    "text": "Explore some of my recent and ongoing projects.\n\nModeling the diversity and distribution of NYS Bees\nForecasting the impacts of global change on SW Bees\nrlandfire: Interface to ‘LANDFIRE Product Service’ API\nClimate-driven range shifts in a rare specialist bee\nBiology of a deep nesting aster specialist\nMason Bee Edu: A native bee education program\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate-driven range shifts of a specialist bee\n\n\n\n\n\n\n\nBiology of a deep nesting aster specialist\n\n\n\n\n\n\n\nrlandfire\n\n\n\n\n\n\n\nMason Bee EDU\n\n\n\n\n\nPrevoius\n\n\n\nNext"
+    "text": "Explore some of my recent and ongoing projects.\n\nRapid, cost effective monitoring with UAVs and computer vision\nOccupancy forecasting with deep learning models\nrlandfire: Interface to ‘LANDFIRE Product Service’ API\nModeling the diversity and distribution of NYS Bees\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOccupancy forecasting with deep learning\n\n\n\n\n\n\n\nUAV-based biodiversity monitoring\n\n\n\n\n\n\n\nrlandfire\n\n\n\n\n\n\n\nModeling NYS bee biodiversity\n\n\n\n\n\nPrevoius\n\n\n\nNext"
   },
   {
     "objectID": "projects.html#current-research",
@@ -130,7 +130,7 @@
     "href": "projects.html#software",
     "title": "Research and Current Projects",
     "section": "Software",
-    "text": "Software\n\n  \n  \n  \n\n rlandfire \n  \nrlandfire is an R package for working with the 'Landscape Fire and Resource Management Planning Tools' (LANDFIRE) geospatial layers in R. The current version provides and interface to the 'LANDFIRE Product Service' API from within R. \n\n\n\n\nrlandfire is now on CRAN! The package can be installed with:\n\n# CRAN:\ninstall.packages(\"rlandfire\")\n\n# Development version:\n# install.packages(\"devtools\")\ndevtools::install_github(\"bcknr/rlandfire\")\n\nPlease submit all bug reports, feature requests, or questions on the GitHub repo.\nI am open to contributors. If you are a LANDFIRE user and are interested in participating, please reach out!\n Featured in the LANDFIRE Office Hours  \nEarly in the development process, rlandfire was featured in the LANDFIRE Office Hours as part of a broader discussion on using LANDFIRE and R!"
+    "text": "Software\n\n  \n  \n  \n\n rlandfire \n  \nrlandfire is an R package for working with the 'Landscape Fire and Resource Management Planning Tools' (LANDFIRE) geospatial layers in R. The current version provides and interface to the 'LANDFIRE Product Service' API from within R. \n\n\n\n\nrlandfire is now on CRAN! The package can be installed with:\n\n# CRAN:\ninstall.packages(\"rlandfire\")\n\n# Development version:\n# install.packages(\"devtools\")\ndevtools::install_github(\"bcknr/rlandfire\")\n\nPlease submit all bug reports, feature requests, or questions on the GitHub repo.\nI am open to contributors. If you are a LANDFIRE user and are interested in participating, please reach out!"
   },
   {
     "objectID": "dsw_poster.html",
@@ -138,5 +138,26 @@
     "title": " Forecasting the Impacts of Global Change on a Bee Biodiversity Hotspot ",
     "section": "",
     "text": "Forecasting the Impacts of Global Change on a Bee Biodiversity Hotspot \n\n\nThank you for visiting my poster! To view the full-sized digital poster click here or on the image below.\nIf you have any questions about this project, any of my other work, or are interested in collaborating, email me at mab677@cornell.edu. I look forward to hearing from you! To learn more about me and some of my other ongoing projects, feel free to explore the About, and Research pages of this website.\n\n\n\n\n\n Timelapse: Las Vegas Urban Sprawl (1980-2020)"
+  },
+  {
+    "objectID": "projects.html#ongoing-research",
+    "href": "projects.html#ongoing-research",
+    "title": "Research and Current Projects",
+    "section": "Ongoing Research",
+    "text": "Ongoing Research\n\n  \n  \n  \n  \n\n Decision support for a threatened fish supplementation program \n\nConservation of threatened and invasive species requires decision making under uncertainty. Working in affiliation with researchers and managers at the USGS, USBR, USFWS and state agencies, I am working to develop a transparent value of information (VOI) analysis to identify priority research areas for the supplementation of a federally and state-listed species in California's Sacramento Delta. \n\n\n\n\n\n  \n  \n  \n  \n\n Occupancy forecasting with deep learning models in agriculture \n\nEarly warning forcasts for migratory pest species benefit from rapid, computationally efficient models with clearly reported uncertainty. I am leading the development of a variation deep learning occupancy forecasting architecture which integrating presence-only and monitoring network data to generate weekly forecasts of pest occupancy probabilities across the eastern United States."
+  },
+  {
+    "objectID": "projects.html#previous-research",
+    "href": "projects.html#previous-research",
+    "title": "Research and Current Projects",
+    "section": "Previous Research",
+    "text": "Previous Research\nDuring my PhD, I used open data to model how the diversity and distributions of solitary bees may change under future climate conditions and in human-altered landscapes. By evaluating how species respond to the changing environment, I generated data products for land management decision-making and biodiversity conservation.\nHistorically, insect populations lacked detailed, structured, and long-term surveys. The need for more data presents a challenge in prioritizing conservation action. By leveraging community science data and collection records with Species Distribution Modeling (SDM), we can better evaluate how species may respond to a suite of interacting drivers of global change.\n\n  \n  \n  \n  \n\n UAV‐based remote sensing of bee nesting aggregations with computer vision for object detection \n\nTraditional methods for monitoring solitary ground nesting bee aggregations is labor-intensive and provides limited, often coarse, metrics. We introduced a novel high throughput method for rapid, cost-effective monitoring using UAV-based imagery and computer vision. Journal of Applied Ecology.\n\n\n\n\n\n  \n  \n  \n  \n\n Mapping bee diversity with landscape‐level models to inform conservation \n\nThe local context required for implementing effective conservation actions is often missing from global analyses of bee diversity. Using records from the Empire State Native Pollinator Survey and GBIF, we modeled how bee species are distributed across the state of New York and what habitats may be of high conservation value. Read the paper in Conservation Science and Practice.\n\n\n\n\n\n  \n  \n  \n  \n\n Forecasting the Impacts of Global Change on a Bee Biodiversity Hotspot \n\nThe American Southwest is a hotspot for rapid climate change, land conversion, and bee biodiversity. Home to nearly 1/4 of US bee species, we are using Joint SDMs to evaluate how global change might impact species richness in the region and how to mitigate the threat. Read the paper in Ecology and Evolution.\n\n\n\n\n\n  \n  \n       \n  \n\n Climate-driven range shifts in a rare specialist bee \nMost specialists bees collect pollen from species within the same family of plants. Macropis nuda only collects pollens and oils from a couple of species. Our recent Global Ecology and Conservation publication explored how this species and its primary host plant might respond to the changing climate."
+  },
+  {
+    "objectID": "pubs.html#section-6",
+    "href": "pubs.html#section-6",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\nBuckner M. Cornell CALS Field Notes. Mark Buckner: Helping future generations understand and preserve native bees. 2021 June 23. https://cals.cornell.edu/news/2021/06/mark-buckner-helping-future-generations-understand-and-preserve-native-bees"
   }
 ]

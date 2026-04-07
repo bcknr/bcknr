@@ -5,3 +5,5 @@
 
 /.quarto/
 cv.qmd
+
+**/*.quarto_ipynb
