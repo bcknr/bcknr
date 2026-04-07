@@ -51,7 +51,7 @@ carousel("projects-carousel", 5000, yaml.load_file("carousel.yml"))
 <br>
 <h4> Decision support for a threatened fish supplementation program </h4>
 
-Conservation of threatened and invasive species requires decision making under uncertainty. Working in affiliation with researchers and managers at the USGS, USBR, USFWS and state agencies, I am working to develop a transparent value of information (VOI) analysis to identify priority research areas for the supplementation of a federally and state-listed species in California's Sacramento Delta. 
+Conservation of threatened and invasive species requires decision making under uncertainty. Working with researchers at the USGS and managers from USBR, USFWS and state agencies, I am developing a transparent value of information (VOI) analysis to identify priority research areas for the supplementation of a federally and state-listed species in California's Sacramento Delta. 
 
 </div>
 
@@ -68,7 +68,7 @@ Conservation of threatened and invasive species requires decision making under u
 <br>
 <h4> Occupancy forecasting with deep learning models in agriculture </h4>
 
-Early warning forcasts for migratory pest species benefit from rapid, computationally efficient models with clearly reported uncertainty. I am leading the development of a variation deep learning occupancy forecasting architecture which integrating presence-only and monitoring network data to generate weekly forecasts of pest occupancy probabilities across the eastern United States.
+Early warning forcasts for migratory pest species benefit from rapid, computationally efficient models with clearly reported uncertainty. I am leading the development of a variation deep learning occupancy forecasting architecture which integrates presence-only records and monitoring network data to generate weekly forecasts of pest occupancy probabilities across the eastern United States.
 
 </div>
 
